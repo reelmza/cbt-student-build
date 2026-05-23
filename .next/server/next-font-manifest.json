@@ -1,0 +1,27 @@
+{
+  "app": {
+    "[project]/app/_not-found/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2"
+    ],
+    "[project]/app/exams/[id]/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2"
+    ],
+    "[project]/app/exams/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2"
+    ],
+    "[project]/app/instructions/[id]/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

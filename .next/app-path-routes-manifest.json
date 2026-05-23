@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...next-auth]/route": "/api/auth/[...next-auth]",
+  "/api/config/route": "/api/config",
+  "/exams/[id]/page": "/exams/[id]",
+  "/exams/page": "/exams",
+  "/favicon.ico/route": "/favicon.ico",
+  "/instructions/[id]/page": "/instructions/[id]",
+  "/page": "/"
+}

@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...next-auth]/route": "app/api/auth/[...next-auth]/route.js",
+  "/api/config/route": "app/api/config/route.js",
+  "/exams/[id]/page": "app/exams/[id]/page.js",
+  "/exams/page": "app/exams/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/instructions/[id]/page": "app/instructions/[id]/page.js",
+  "/page": "app/page.js"
+}
